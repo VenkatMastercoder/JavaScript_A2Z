@@ -1,3 +1,6 @@
 # Random Number 
 
-<img src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/sizing-an-image-v1.gif" />
+
+
+<img src="https://res.cloudinary.com/dsq5spft3/video/upload/v1675581188/05.02.2023_12.40.44_REC_ipn48j.mp4" />
+
